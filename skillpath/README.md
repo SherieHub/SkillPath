@@ -1,20 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ✦ SkillPath
 
-# Run and deploy your AI Studio app
+> **Earning meets learning.** An AI-powered career engine transforming underemployment into verified professional growth.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/c5659275-f7a7-4a6d-a8d5-813130113ea9
+## 🚀 Overview
 
-## Run Locally
+**SkillPath** is a two-sided marketplace and AI-driven platform designed to connect ambitious Filipino freelancers with local and international businesses. 
 
-**Prerequisites:**  Node.js
+Moving beyond traditional, transactional gig boards that encourage a "race to the bottom" on price, SkillPath introduces structured career pathways. We match talent to curated **Growth Gigs** using an innovative **80/20 skill-matching algorithm**, ensuring every project completed is a deliberate step forward on a personalized professional trajectory.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ✨ Core Features
+
+### 🧑‍💻 For Freelancers (Talent)
+* **The Skill Tree:** A dynamic, gamified visual map of your career. Completing gigs unlocks new nodes, guiding you from generalist to high-value specialist.
+* **80/20 Optimal Matching:** Get matched with gigs that utilize 80% of your current skills (Comfort Zone) while challenging you with 20% adjacent skills (Stretch Zone).
+* **Micro-Learning Integrations:** Access bite-sized learning modules tailored exactly to the next required skill on your tree.
+* **Verified Outcomes:** Build an "Outcome-CV" validated by actual platform performance and client ratings, replacing self-reported resumes.
+
+### 🏢 For Businesses (Pro Partners)
+* **AI Skill Mapper:** Post gigs by simply detailing the desired outcome. The AI automatically maps the required technical and soft skills to find the highest-affinity talent.
+* **Path Readiness Index:** Instantly evaluate candidates with an AI-driven readiness score (e.g., 94.2% Match) rather than sifting through hundreds of raw applications.
+* **Escrow-Secured Engagements:** Hire with confidence knowing funds and deliverables are securely managed within the platform.
+* **Command Center Dashboard:** A seamless pipeline to track active growth gigs and review verified talent pools.
+
+---
+
+## 🎯 Our Mission
+
+SkillPath serves the underemployed Filipino freelancer—the aspiring mid-level professional and the undervalued specialist—by providing a structured pathway out of survival-mode gig work. By turning every task into a measurable upskilling opportunity, we provide businesses with reliable access to a highly competitive, continuously improving digital workforce.
+
+---
+*Built to bridge the gap between survival freelancing and high-value professional mastery.*
