@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-**SkillPath** is a two-sided marketplace and AI-driven platform designed to connect ambitious Filipino freelancers with local and international businesses. 
+**SkillPath** is a two-sided marketplace and AI-driven platform designed to connect ambitious freelancers with local and international businesses. 
 
 Moving beyond traditional, transactional gig boards that encourage a "race to the bottom" on price, SkillPath introduces structured career pathways. We match talent to curated **Growth Gigs** using an innovative **80/20 skill-matching algorithm**, ensuring every project completed is a deliberate step forward on a personalized professional trajectory.
 
@@ -30,7 +30,7 @@ Moving beyond traditional, transactional gig boards that encourage a "race to th
 
 ## 🎯 Our Mission
 
-SkillPath serves the underemployed Filipino freelancer—the aspiring mid-level professional and the undervalued specialist—by providing a structured pathway out of survival-mode gig work. By turning every task into a measurable upskilling opportunity, we provide businesses with reliable access to a highly competitive, continuously improving digital workforce.
+SkillPath serves the underemployed freelancer—the aspiring mid-level professional and the undervalued specialist—by providing a structured pathway out of survival-mode gig work. By turning every task into a measurable upskilling opportunity, we provide businesses with reliable access to a highly competitive, continuously improving digital workforce.
 
 ---
 *Built to bridge the gap between survival freelancing and high-value professional mastery.*
