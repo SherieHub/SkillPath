@@ -4,6 +4,10 @@
 
 ---
 
+## ⚠️ Disclaimer
+> **This project does not include the backend source code or core algorithms. Certain technical components are intentionally withheld for intellectual property and trademark protection. The system’s internal logic and implementation details remain confidential.**
+
+---
 ## 🚀 Overview
 
 **SkillPath** is a two-sided marketplace and AI-driven platform designed to connect ambitious freelancers with local and international businesses. 
